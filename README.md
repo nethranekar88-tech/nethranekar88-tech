@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋 I'm Nethra Nekar
 
-<!--
-**nethranekar88-tech/nethranekar88-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter Developer | Flutter Flow Developer | Python Developer | Dart | Firebase 
 
-Here are some ideas to get you started:
+I am passionate about building mobile and web applications using Flutter, Firebase and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### 🏢 Meeting Room Booking App
+Flutter + Firebase application to book meeting rooms.
+
+🔗 Repository:
+https://github.com/nethranekar88-tech/meeting-room-booking-app
+
+### ✈️ Flutter Travel Booking App
+Travel booking mobile application built using Flutter.
+
+🔗 Repository:
+https://github.com/nethranekar88-tech/flutter-travel-booking-app
+
+### 👨‍💼 HR Recruitment Portal
+Application for managing recruitment workflow.
+
+🔗 Repository:
+https://github.com/nethranekar88-tech/hr-recruitment-portal
+
+### ✈️ TripMate Travel App
+Travel planning mobile application built using Flutter.
+
+🔗 Repository:
+https://github.com/nethranekar88-tech/tripmate-travel-app
+
+---
+
+## Skills
+Flutter
+Dart
+Firebase
+REST API
+Git & GitHub
+
+---
+
+## 📫 Contact
+
+LinkedIn: ([](https://www.linkedin.com/in/nethra-nekar-ab2494259/))  
+Email: nethranekar68@gmail.com
