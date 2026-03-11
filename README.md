@@ -2,7 +2,7 @@
 
 Flutter Developer | Flutter Flow Developer | Python Developer | Dart | Firebase 
 
-I am passionate about building mobile and web applications using Flutter, Firebase and Python.
+I am passionate about building mobile and web applications using Flutter, Flutter Flow, Firebase and Python.
 
 ---
 
@@ -36,9 +36,12 @@ https://github.com/nethranekar88-tech/tripmate-travel-app
 
 ## Skills
 Flutter
+Flutter Flow
+Python
 Dart
 Firebase
 REST API
+Flask
 Git & GitHub
 
 ---
