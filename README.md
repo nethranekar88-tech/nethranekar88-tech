@@ -45,5 +45,5 @@ Git & GitHub
 
 ## 📫 Contact
 
-LinkedIn: ([](https://www.linkedin.com/in/nethra-nekar-ab2494259/))  
+LinkedIn: https://www.linkedin.com/in/nethra-nekar-ab2494259/
 Email: nethranekar68@gmail.com
