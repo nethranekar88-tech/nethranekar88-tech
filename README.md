@@ -2,20 +2,65 @@
 
 Flutter Developer | Flutter Flow Developer | Python Developer | Dart | Firebase 
 
-I am passionate about building mobile and web applications using Flutter, Flutter Flow, Firebase and Python.
+Flutter Developer passionate about building mobile applications using Flutter and Firebase.
 
----
 
-## 🚀 Projects
+## 🚀 Skills
+
+Flutter
+Dart
+Firebase
+REST APIs
+Git & GitHub
+Mobile App Development
+
+
+## 📱 Projects
 
 ### 🏢 Meeting Room Booking App
 Flutter + Firebase application to book meeting rooms.
 
+Features:
+- User authentication using Firebase
+- Book meeting rooms for specific time slots
+- View available meeting rooms
+- Live booking updates using Firebase Firestore
+- Display all active bookings
+- Simple and responsive Flutter UI
+- Real-time database integration
+- Clean and modular Flutter architecture
+
 🔗 Repository:
 https://github.com/nethranekar88-tech/meeting-room-booking-app
 
+### ✈️ TripMate Travel App
+Travel planning mobile application built using Flutter.
+
+Features:
+- Browse travel destinations
+- View destination details and images
+- Travel package selection interface
+- User-friendly modern Flutter UI
+- Destination categories and recommendations
+- Responsive mobile layout
+- Navigation between multiple screens
+- Reusable Flutter UI components
+
+🔗 Repository:
+https://github.com/nethranekar88-tech/tripmate-travel-app
+
 ### ✈️ Flutter Travel Booking App
 Travel booking mobile application built using Flutter.
+
+Features:
+- Travel destination browsing interface
+- Hotel and trip package listings
+- Booking interface design
+- Beautiful Flutter UI layouts
+- Reusable widgets for travel cards
+- Multi-screen navigation
+- Mobile responsive design
+- Clean UI architecture
 
 🔗 Repository:
 https://github.com/nethranekar88-tech/flutter-travel-booking-app
@@ -23,28 +68,19 @@ https://github.com/nethranekar88-tech/flutter-travel-booking-app
 ### 👨‍💼 HR Recruitment Portal
 Application for managing recruitment workflow.
 
+Features:
+- Candidate management system
+- Job posting interface
+- Application tracking
+- Candidate profile management
+- Recruitment workflow tracking
+- Admin dashboard layout
+- User-friendly interface
+- Structured recruitment data handling
+
 🔗 Repository:
 https://github.com/nethranekar88-tech/hr-recruitment-portal
 
-### ✈️ TripMate Travel App
-Travel planning mobile application built using Flutter.
-
-🔗 Repository:
-https://github.com/nethranekar88-tech/tripmate-travel-app
-
----
-
-## Skills
-Flutter
-Flutter Flow
-Python
-Dart
-Firebase
-REST API
-Flask
-Git & GitHub
-
----
 
 ## 📫 Contact
 
