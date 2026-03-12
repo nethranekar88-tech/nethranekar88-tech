@@ -1,18 +1,24 @@
 # Hi 👋 I'm Nethra Nekar
 
-Flutter Developer | Flutter Flow Developer | Python Developer | Dart | Firebase 
+Flutter Developer | FlutterFlow Developer | Dart | Firebase | Cross-Platform Mobile App Developer
 
-Flutter Developer passionate about building mobile applications using Flutter and Firebase.
+Passionate about building scalable cross-platform mobile applications using Flutter, modern UI design, and clean architecture.
 
 
-## 🚀 Skills
+## 🚀 Tech Stack
 
-Flutter
-Dart
-Firebase
-REST APIs
-Git & GitHub
-Mobile App Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-6F52ED?logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nethranekar88-tech&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nethranekar88-tech&layout=compact)
 
 
 ## 📱 Projects
@@ -82,7 +88,22 @@ Features:
 https://github.com/nethranekar88-tech/hr-recruitment-portal
 
 
+## 💻 Skills
+
+- Flutter  
+- Dart  
+- Firebase  
+- FlutterFlow  
+- REST APIs  
+- Git  
+- GitHub  
+- Mobile App Development  
+
+
 ## 📫 Contact
 
-LinkedIn: https://www.linkedin.com/in/nethra-nekar-ab2494259/
-Email: nethranekar68@gmail.com
+**LinkedIn**
+https://www.linkedin.com/in/nethra-nekar-ab2494259/
+
+**Email**
+nethranekar68@gmail.com
