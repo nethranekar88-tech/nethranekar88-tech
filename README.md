@@ -24,7 +24,7 @@ Passionate about building scalable cross-platform mobile applications using Flut
 ## 📱 Projects
 
 ### 🏢 Meeting Room Booking App
-Flutter + Firebase application to book meeting rooms.
+Flutter + Firebase mobile application for booking meeting rooms with real-time availability, scheduling, and Firestore database integration.
 
 Features:
 - User authentication using Firebase
@@ -40,7 +40,7 @@ Features:
 https://github.com/nethranekar88-tech/meeting-room-booking-app
 
 ### ✈️ TripMate Travel App
-Travel planning mobile application built using Flutter.
+Travel planning mobile application built with FlutterFlow and Flutter for exploring destinations, trip packages, and modern mobile UI experiences.
 
 Features:
 - Browse travel destinations
@@ -56,7 +56,7 @@ Features:
 https://github.com/nethranekar88-tech/tripmate-travel-app
 
 ### ✈️ Flutter Travel Booking App
-Travel booking mobile application built using Flutter.
+Flutter mobile application UI for browsing travel destinations, viewing trip packages, and simulating a travel booking experience.
 
 Features:
 - Travel destination browsing interface
@@ -72,7 +72,7 @@ Features:
 https://github.com/nethranekar88-tech/flutter-travel-booking-app
 
 ### 👨‍💼 HR Recruitment Portal
-Application for managing recruitment workflow.
+Recruitment management application for handling job postings, candidate profiles, and recruitment workflow tracking.
 
 Features:
 - Candidate management system
