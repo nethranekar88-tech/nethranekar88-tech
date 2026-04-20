@@ -23,7 +23,7 @@ Passionate about building scalable cross-platform mobile applications using Flut
 
 ## 📱 Projects
 
-### 🏢 Meeting Room Booking App
+### 🏢 meeting-room-booking-flutter-app
 Flutter + Firebase mobile application for booking meeting rooms with real-time availability, scheduling, and Firestore database integration.
 
 Features:
