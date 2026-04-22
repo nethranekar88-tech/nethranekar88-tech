@@ -34,7 +34,7 @@ Currently looking for Flutter / Mobile App Developer opportunities in Bangalore,
 ## 📱 Featured Projects
 
 ### 🏢 Meeting Room Booking App
-Flutter + Firebase application with authentication, room booking, booking history, real-time Firestore updates and responsive UI.
+Flutter + Firebase Meeting Room Booking Application with real-time room availability, booking management, and responsive UI.
 
 **Features**
 - Firebase Authentication
@@ -50,7 +50,7 @@ https://github.com/nethranekar88-tech/meeting-room-booking-app
 ---
 
 ### 🌿 TrekAura Travel Website
-Modern travel and trekking website with responsive design, trip cards, popup trip details, reviews, FAQ and travel branding.
+Modern travel and trekking website with responsive UI, trip cards, popup details, reviews, FAQ, and travel branding.
 
 **Features**
 - Responsive travel website
@@ -66,7 +66,7 @@ https://github.com/nethranekar88-tech/trekaura-travel-website
 ---
 
 ### ✈️ TripMate Travel App
-Travel planner and explorer mobile application built using Flutter and FlutterFlow.
+Flutter travel planner and explorer app UI with destination browsing, booking screens, and modern mobile design.
 
 **Features**
 - Browse travel destinations
@@ -98,7 +98,7 @@ https://github.com/nethranekar88-tech/flutter-travel-booking-app
 ---
 
 ### 👨‍💼 HR Recruitment Portal
-Web application to manage recruitment workflows including job postings, candidate applications and HR management.
+Web application to manage recruitment workflows including job postings, candidate applications, and HR management.
 
 **Features**
 - Candidate management system
