@@ -49,6 +49,26 @@ https://github.com/nethranekar88-tech/meeting-room-booking-app
 
 ---
 
+### 🛒 ShopEase E-Commerce App
+Modern Flutter grocery e-commerce application with beautiful UI, shopping cart, checkout flow, order confirmation, and live order tracking screens.
+
+**Features**
+- Modern grocery shopping UI
+- Product categories and search
+- Product details page
+- Add to cart functionality
+- Cart quantity management
+- Checkout with payment methods
+- Order confirmation screen
+- Live order tracking UI
+- Responsive Flutter design
+- Multi-screen navigation
+
+🔗 Repository:  
+https://github.com/nethranekar88-tech/shopease_ecommerce_app
+
+---
+
 ### 🌿 TrekAura Travel Website
 Modern travel and trekking website with responsive UI, trip cards, popup details, reviews, FAQ, and travel branding.
 
