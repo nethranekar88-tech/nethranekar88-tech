@@ -1,14 +1,14 @@
 # Hi 👋 I'm Nethra Nekar
 
-Flutter & FlutterFlow Developer | Mobile, Web & Business Apps | Firebase | REST APIs
+Flutter & FlutterFlow Developer | Mobile & Web Apps | Firebase | REST APIs | Open to Hybrid & Remote
 
-Passionate about building modern cross-platform mobile and web applications using Flutter, FlutterFlow, Firebase and responsive UI design.
+Passionate about building modern cross-platform mobile and web applications using Flutter, FlutterFlow, Firebase, and responsive UI design.
 
-Currently looking for Flutter / Mobile App Developer opportunities in Bangalore, Hybrid and Remote roles.
+Currently building modern Flutter applications and open to Flutter Developer, Mobile App Developer, and Remote freelance opportunities.
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-6F52ED?logo=flutter&logoColor=white)
@@ -23,7 +23,7 @@ Currently looking for Flutter / Mobile App Developer opportunities in Bangalore,
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nethranekar88-tech&show_icons=true&theme=tokyonight)
 
@@ -31,28 +31,13 @@ Currently looking for Flutter / Mobile App Developer opportunities in Bangalore,
 
 ---
 
-## 📱 Featured Projects
+# 📱 Featured Projects
 
-### 🏢 Meeting Room Booking App
-Flutter + Firebase Meeting Room Booking Application with real-time room availability, booking management, and responsive UI.
+## 🛒 ShopEase E-Commerce App
 
-**Features**
-- Firebase Authentication
-- Book rooms by time slot
-- Live room availability
-- Booking history and profile page
-- Real-time Firestore integration
-- Responsive Flutter UI
-
-🔗 Repository:  
-https://github.com/nethranekar88-tech/meeting-room-booking-app
-
----
-
-### 🛒 ShopEase E-Commerce App
 Modern Flutter grocery e-commerce application with beautiful UI, shopping cart, checkout flow, order confirmation, and live order tracking screens.
 
-**Features**
+### Features
 - Modern grocery shopping UI
 - Product categories and search
 - Product details page
@@ -69,10 +54,28 @@ https://github.com/nethranekar88-tech/shopease_ecommerce_app
 
 ---
 
-### 🌿 TrekAura Travel Website
+## 🏢 Meeting Room Booking App
+
+Flutter + Firebase Meeting Room Booking Application with real-time room availability, booking management, and responsive UI.
+
+### Features
+- Firebase Authentication
+- Book rooms by time slot
+- Live room availability
+- Booking history and profile page
+- Real-time Firestore integration
+- Responsive Flutter UI
+
+🔗 Repository:  
+https://github.com/nethranekar88-tech/meeting-room-booking-app
+
+---
+
+## 🌿 TrekAura Travel Website
+
 Modern travel and trekking website with responsive UI, trip cards, popup details, reviews, FAQ, and travel branding.
 
-**Features**
+### Features
 - Responsive travel website
 - Trip detail popup modal
 - FAQ accordion
@@ -85,10 +88,11 @@ https://github.com/nethranekar88-tech/trekaura-travel-website
 
 ---
 
-### ✈️ TripMate Travel App
+## ✈️ TripMate Travel App
+
 Flutter travel planner and explorer app UI with destination browsing, booking screens, and modern mobile design.
 
-**Features**
+### Features
 - Browse travel destinations
 - View destination details
 - Travel package interface
@@ -101,10 +105,11 @@ https://github.com/nethranekar88-tech/tripmate-travel-app
 
 ---
 
-### 🌍 Flutter Travel Booking App
+## 🌍 Flutter Travel Booking App
+
 Flutter mobile application for destination discovery and travel booking with modern user interface.
 
-**Features**
+### Features
 - Travel destination browsing
 - Hotel and package listings
 - Booking interface design
@@ -117,10 +122,11 @@ https://github.com/nethranekar88-tech/flutter-travel-booking-app
 
 ---
 
-### 👨‍💼 HR Recruitment Portal
+## 👨‍💼 HR Recruitment Portal
+
 Web application to manage recruitment workflows including job postings, candidate applications, and HR management.
 
-**Features**
+### Features
 - Candidate management system
 - Job posting interface
 - Application tracking
@@ -133,7 +139,7 @@ https://github.com/nethranekar88-tech/hr-recruitment-portal
 
 ---
 
-## 💻 Skills
+# 💻 Skills
 
 - Flutter
 - FlutterFlow
@@ -151,19 +157,19 @@ https://github.com/nethranekar88-tech/hr-recruitment-portal
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-**LinkedIn**  
+## LinkedIn
 https://www.linkedin.com/in/nethra-nekar-ab2494259/
 
-**Fiverr**  
+## Fiverr
 https://www.fiverr.com/nethranekar22
 
-**Upwork**  
+## Upwork
 https://www.upwork.com/freelancers/~0129f5261d60e91e5b
 
-**GitHub**  
+## GitHub
 https://github.com/nethranekar88-tech
 
-**Email**  
+## Email
 nethranekar68@gmail.com
