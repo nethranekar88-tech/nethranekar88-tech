@@ -23,14 +23,6 @@ Currently building modern Flutter applications and open to Flutter Developer, Mo
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nethranekar88-tech&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nethranekar88-tech&layout=compact&theme=tokyonight)
-
----
-
 # 📱 Featured Projects
 
 ## 🛒 ShopEase E-Commerce App
